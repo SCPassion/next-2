@@ -36,7 +36,6 @@ export default function CreateBlog() {
               <Label>Image URL</Label>
               <Input name="url" required type="url" placeholder="Image URL" />
             </div>
-            // Always create a connection to the database from the server side
             <SubmitButton />
           </form>
         </CardContent>

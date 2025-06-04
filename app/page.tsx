@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { prisma } from "./utils/db";
 import { BlogpostCart } from "@/components/general/BlogpostCart";
 import { Suspense } from "react";
